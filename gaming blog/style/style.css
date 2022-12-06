@@ -102,10 +102,22 @@ header p {
 .person {
     text-align: center;
     height: 50%;
-    border-radius: 50%
+    border-radius: 50%;
 }
 
 .person {
     width: 50%;
     border: 3px, solid black;
+}
+
+.gallery {
+    width: 24%;
+    height: 150px;
+    margin: 5px;
+    float: left;
+}
+
+.gallery img {
+    width: 100%;
+    height: 230px;
 }
